@@ -11,7 +11,7 @@ import urllib, time, sys
 
 passwd = "your_password"
 #username="201301441@da-iict.org"
-username="your_usernames"
+username="your_username"
 cyberroamAddress = cyberroamIP
 if cyberroamPort != "":
 	cyberroamAddress = cyberroamAddress+":"+cyberroamPort
