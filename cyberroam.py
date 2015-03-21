@@ -9,9 +9,9 @@ from time import strftime
 import urllib, time, sys
 
 
-passwd = "ceid$321"
-#username="201101211@da-iict.org"
-username="CEID-Zone"
+passwd = "your_password"
+#username="201301441@da-iict.org"
+username="your_username"
 cyberroamAddress = cyberroamIP
 if cyberroamPort != "":
 	cyberroamAddress = cyberroamAddress+":"+cyberroamPort
