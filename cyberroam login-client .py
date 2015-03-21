@@ -4,8 +4,8 @@ import time
 import datetime
 
 TIME_BETWEEN_LOGIN=((2*60*60)-(5*60))
-USERNAME='CEID-Zone'
-PASSWORD='ceid$321'
+USERNAME='your_username'
+PASSWORD='your_password'
 
 
 br=mechanize.Browser()
